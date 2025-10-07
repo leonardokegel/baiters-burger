@@ -2,6 +2,7 @@
 
 
 
+
 ## Detalhes da solução
 
 Este projeto é uma aplicação Java com Spring Boot e MongoDB que segue os princípios da Clean Architecture com camadas distintas para domínio, aplicação, adaptadores de interface e frameworks & drivers.
